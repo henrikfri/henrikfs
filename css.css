@@ -10,7 +10,7 @@
 
    .background-image { /* bakgrunnsbildet */
    
-       background-image: url('/bilderr/henrikyellowIM.png');
+       background-image: url('henrikyellowIM.png');
    
        background-size:cover;
    
@@ -228,7 +228,7 @@
 .fifawc {
 width: 60px;
 height: 40px;
-background-image: url(bilderr/wcqatar.webp);
+background-image: url('wcqatar.webp');
 background-size: 50%;
     
  }
